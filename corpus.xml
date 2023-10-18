@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>American Drama Corpus</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>DraCor</publisher>
+                <idno type="URI" xml:base="https://dracor.org/">American</idno>
+                <idno type="repo">https://github.com/DanilSko/amdracor</idno>
+                <availability status="free">
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">
+                        Public Domain
+                    </licence>
+                </availability>
+            </publicationStmt>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>
+                    American Drama Corpus.
+                </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+</teiCorpus>

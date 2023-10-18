@@ -1,0 +1,895 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <title>
+    The Christ of the Andes
+   </title>
+   <author>
+    Du Bois, W. E. B. (William Edward Burghardt), 1868-1963
+   </author>
+  </fileDesc>
+  <profileDesc>
+   <particDesc>
+    <listPerson>
+     <person sex="MALE" xml:id="messenger">
+      <persName>
+       Messenger
+      </persName>
+     </person>
+     <person sex="MALE" xml:id="francesco">
+      <persName>
+       Francesco
+      </persName>
+     </person>
+     <person sex="MALE" xml:id="hauscar">
+      <persName>
+       Hauscar
+      </persName>
+     </person>
+     <person sex="MALE" xml:id="a">
+      <persName>
+       A.
+      </persName>
+     </person>
+     <person sex="MALE" xml:id="echo">
+      <persName>
+       Echo
+      </persName>
+     </person>
+     <person sex="MALE" xml:id="oldman">
+      <persName>
+       Old Man
+      </persName>
+     </person>
+     <person sex="MALE" xml:id="f">
+      <persName>
+       F.
+      </persName>
+     </person>
+     <person sex="MALE" xml:id="huascar">
+      <persName>
+       Huascar
+      </persName>
+     </person>
+     <person sex="MALE" xml:id="x">
+      <persName>
+       X.
+      </persName>
+     </person>
+     <person sex="MALE" xml:id="h">
+      <persName>
+       H.
+      </persName>
+     </person>
+     <person sex="MALE" xml:id="ximene">
+      <persName>
+       Ximene
+      </persName>
+     </person>
+     <person sex="MALE" xml:id="pizzarro">
+      <persName>
+       Pizzarro
+      </persName>
+     </person>
+     <person sex="FEMALE" xml:id="atualpa">
+      <persName>
+       Atualpa
+      </persName>
+     </person>
+    </listPerson>
+   </particDesc>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <epigraph>
+    They fail, and they alone, who have not striven.
+
+T. B. Aldrich.
+   </epigraph>
+  </front>
+  <body>
+   <sp who="echo">
+    <speaker>
+     Echo .
+    </speaker>
+    <l>
+     Ximene.
+    </l>
+   </sp>
+   <sp who="ximene">
+    <speaker>
+     Ximene .
+    </speaker>
+    <l>
+     Francesco!
+    </l>
+    <l>
+     Whence leaps this strange new name
+    </l>
+    <l>
+     So coldy to my lips — and that
+    </l>
+    <l>
+     Pale bloodless face I seem to see afar,
+    </l>
+    <l>
+     So sharp and queer — I hate it.
+    </l>
+    <l>
+     Yet how lithe and strong he looks
+    </l>
+    <l>
+     How wicked wilful!
+    </l>
+    <l>
+     The Gods of the Moluchi grant
+    </l>
+    <l>
+     I see him never more!
+    </l>
+   </sp>
+   <sp who="atualpa">
+    <speaker>
+     Atualpa .
+    </speaker>
+    <l>
+     Greetings, O Daughter of the Moon.
+    </l>
+    <l>
+     Father what means this vision?
+    </l>
+   </sp>
+   <sp who="hauscar">
+    <speaker>
+     Hauscar :
+    </speaker>
+    <l>
+     Who are these bloodless ghosts?
+    </l>
+   </sp>
+   <sp who="oldman">
+    <speaker>
+     Old Man .
+    </speaker>
+    <l>
+     They are devils that come from nether hell
+    </l>
+    <l>
+     To torture them that torture their own selves.
+    </l>
+    <l>
+     Cease war and murder of thy kin,
+    </l>
+    <l>
+     Face these fierce foes
+    </l>
+    <l>
+     With grim and undivided strength
+    </l>
+    <l>
+     And thy great sinewed arms
+    </l>
+    <l>
+     Shall squeeze from out their greed
+    </l>
+    <l>
+     The secret of the splendor thou hast viewed.
+    </l>
+   </sp>
+   <sp who="a">
+    <speaker>
+     A.
+    </speaker>
+    <l>
+     Thus have I ever said
+    </l>
+    <l>
+     And say again, but this base brawler here —
+    </l>
+   </sp>
+   <sp who="h">
+    <speaker>
+     H.
+    </speaker>
+    <l>
+     Peace is my dearest dream, but peace with Honor.
+    </l>
+    <l>
+     This base liar here —
+    </l>
+   </sp>
+   <sp who="messenger">
+    <speaker>
+     Messenger .
+    </speaker>
+    <l>
+     Ho! have care — look yonder;
+    </l>
+    <l>
+     There cometh up the mountain paths
+    </l>
+    <l>
+     A mighty cloud of men.
+    </l>
+    <l>
+     Pale as the dead they are and bloodless;
+    </l>
+    <l>
+     Their limbs be clad in glittering silver,
+    </l>
+    <l>
+     Long iron clubs lie lightly in their hands,
+    </l>
+    <l>
+     They sit astride great prancing beasts!
+    </l>
+    <l>
+     Away! They come!
+    </l>
+    <l>
+     And murder sits upon
+    </l>
+    <l>
+     Their sharpened cruel faces!
+    </l>
+   </sp>
+   <sp who="a">
+    <speaker>
+     A.
+    </speaker>
+    <l>
+     Ho! Save the princess
+    </l>
+    <l>
+     Away with her to Araucania;
+    </l>
+    <l>
+     She who hath plead so vainly
+    </l>
+    <l>
+     With this stark and mad usurper,
+    </l>
+    <l>
+     For my throne.
+    </l>
+   </sp>
+   <sp who="huascar">
+    <speaker>
+     Huascar .
+    </speaker>
+    <l>
+     Ho! Save the princess,
+    </l>
+    <l>
+     Away with her to Chili;
+    </l>
+    <l>
+     She who sacredly refuses
+    </l>
+    <l>
+     To supplant a royal sister!
+    </l>
+   </sp>
+   <sp who="atualpa">
+    <speaker>
+     Atualpa .
+    </speaker>
+    <l>
+     What I And will thy lips profane the king's
+                                        bethrothed?
+    </l>
+   </sp>
+   <sp who="h">
+    <speaker>
+     H.
+    </speaker>
+    <l>
+     Thou art no king — thou art no man;
+    </l>
+    <l>
+     Thou art a dog that vomits forth thy rage.
+    </l>
+   </sp>
+   <sp who="a">
+    <speaker>
+     A.
+    </speaker>
+    <l>
+     Ho! thou white and gleaming host,
+    </l>
+    <l>
+     Help me to kill this false and lying thing
+    </l>
+    <l>
+     That dares blaspheme an Inca of Peru!
+    </l>
+   </sp>
+   <sp who="pizzarro">
+    <speaker>
+     Pizzarro .
+    </speaker>
+    <l>
+     Right graciously O King!
+    </l>
+   </sp>
+   <sp who="francesco">
+    <speaker>
+     Francesco .
+    </speaker>
+    <l>
+     Ximene!
+    </l>
+   </sp>
+   <sp who="ximene">
+    <speaker>
+     Ximene .
+    </speaker>
+    <l>
+     Francesco!
+    </l>
+   </sp>
+   <sp who="ximene">
+    <speaker>
+     Ximene .
+    </speaker>
+    <l>
+     There sits an awful silence
+    </l>
+    <l>
+     On the Sea, and o'er the mighty mountains
+    </l>
+    <l>
+     The hushed air doth creep with weak
+    </l>
+    <l>
+     And trembling footsteps.
+    </l>
+    <l>
+     The rivers smell of blood
+    </l>
+    <l>
+     And yonder carrion condor
+    </l>
+    <l>
+     Drunk on human hearts
+    </l>
+    <l>
+     Shrieks and wheels up and homeward
+    </l>
+    <l>
+     To his babes. O fated land!
+    </l>
+    <l>
+     O vale of Death, O Mother of red murder
+    </l>
+    <l>
+     And of war — hark!
+    </l>
+    <l>
+     What roars from out the glen
+    </l>
+    <l>
+     With human accents? My God they come.
+    </l>
+    <l>
+     The blasphemy of cursing
+    </l>
+    <l>
+     Cuts the air.
+    </l>
+    <l>
+     The muttered mouthings
+    </l>
+    <l>
+     Of their barrelled thunder knells
+    </l>
+    <l>
+     From out the dells and echoes and re-echeos
+    </l>
+    <l>
+     On the vast
+    </l>
+    <l>
+     Andean shoulders of the hills.
+    </l>
+    <l>
+     They come, ye gods, they come!
+    </l>
+    <l>
+     As sweeps the throttled
+    </l>
+    <l>
+     Bursting anger in the Devil's breast;
+    </l>
+    <l>
+     As whirls the maddened
+    </l>
+    <l>
+     Torrent of the Spring
+    </l>
+    <l>
+     Around that silvery gleaming central core,
+    </l>
+    <l>
+     Dark, terrible; the soldiering of my great father's
+                                        realm
+    </l>
+    <l>
+     Do swarm and sting.
+    </l>
+    <l>
+     Fond Heaven! How they reel their death cries
+    </l>
+    <l>
+     Shake the cliffs and send the eagles
+    </l>
+    <l>
+     Screaming to the air.
+    </l>
+    <l>
+     Accursed be the sight — I will not see —
+    </l>
+    <l>
+     And yet I must,
+    </l>
+    <l>
+     Since country, life and hope itself
+    </l>
+    <l>
+     Hang in the awful scale.
+    </l>
+    <l>
+     How hateful, harsh, and hideous
+    </l>
+    <l>
+     Gleam the bloodless masks
+    </l>
+    <l>
+     On that inhuman host.
+    </l>
+    <l>
+     See that great iron-nosed monster far ahead
+    </l>
+    <l>
+     Who plows with devilish skill
+    </l>
+    <l>
+     The heart blood of our men — Great Father
+    </l>
+    <l>
+     Make me once a man; give me a spear —
+    </l>
+    <l>
+     Ah! That face; that fearful face!
+    </l>
+    <l>
+     That pale and bloodless face afar
+    </l>
+    <l>
+     So sharp and queer — I hate it.
+    </l>
+    <l>
+     Yet how lithe and strong he looks
+    </l>
+    <l>
+     How wicked wilful.
+    </l>
+    <l>
+     He comes! Francesco!
+    </l>
+    <l>
+     His spear points towards my heart;
+    </l>
+    <l>
+     His eyes do glisten as the serpent's
+    </l>
+    <l>
+     Horrid gaze!
+    </l>
+    <l>
+     What Ho, Moluchi:
+    </l>
+    <l>
+     Fend me — here, there, stand, fight!
+    </l>
+    <l>
+     Thy princess calls — father, Brother,
+    </l>
+    <l>
+     Cousin —
+    </l>
+    <l>
+     'Round me!
+    </l>
+    <l>
+     On thy dead souls
+    </l>
+    <l>
+     That monster dare not woo.
+    </l>
+    <l>
+     Hush.
+    </l>
+    <l>
+     Eyes, see not!
+    </l>
+    <l>
+     Ears, hear not!
+    </l>
+    <l>
+     Heart, lift up thy prayer to God!
+    </l>
+    <l>
+     Spirit of wonder
+    </l>
+    <l>
+     Daughter of Thunder
+    </l>
+    <l>
+     Fire that lurks in the cavernous Sea?
+    </l>
+    <l>
+     Mist of the mountain
+    </l>
+    <l>
+     Song of the fountain
+    </l>
+    <l>
+     Mingle thy might to the guarding of me!
+    </l>
+    <l>
+     God of the Day
+    </l>
+    <l>
+     Lord of the Way
+    </l>
+    <l>
+     Fire that flames for the Child of the Sun,
+    </l>
+    <l>
+     Conquer the Terrible
+    </l>
+    <l>
+     Vanquish the Horrible
+    </l>
+    <l>
+     Pity thy children, Adorable One!
+    </l>
+    <l>
+     What new and creeping silence is this now?
+    </l>
+    <l>
+     I hear the ring of silver — ringing, ringing,
+                                        ringing!
+    </l>
+    <l>
+     Far off the echoes of the battle die
+    </l>
+    <l>
+     As it sweeps past.
+    </l>
+    <l>
+     But here! Father of mercies —
+    </l>
+    <l>
+     Here and alone!
+    </l>
+    <l>
+     All silent
+    </l>
+    <l>
+     Bloody, wounded,
+    </l>
+    <l>
+     Torn and terrible: comes —
+    </l>
+    <l>
+     Francesco!
+    </l>
+   </sp>
+   <sp who="francesco">
+    <speaker>
+     Francesco .
+    </speaker>
+    <l>
+     Ximene!
+    </l>
+   </sp>
+   <sp who="ximene">
+    <speaker>
+     Ximene .
+    </speaker>
+    <l>
+     My older brother dies; his hands
+    </l>
+    <l>
+     Claw the red earth.
+    </l>
+    <l>
+     (What eyes this white faced monster hath.)
+    </l>
+    <l>
+     The head of my great cousin grins
+    </l>
+    <l>
+     A yard from his vast shoulders.
+    </l>
+    <l>
+     (Oh the dread strength of that long slim white
+                                        arm;
+    </l>
+    <l>
+     How thrills and throbs his thin thrust
+    </l>
+    <l>
+     Through the air!)
+    </l>
+    <l>
+     My little brother sinks and sighs
+    </l>
+    <l>
+     As he did sigh in sleep. Oh, Oh!
+    </l>
+    <l>
+     (What wondrous courage this white warrior hath!)
+    </l>
+    <l>
+     My uncle yells his last great war cry
+    </l>
+    <l>
+     To the hills.
+    </l>
+    <l>
+     Lo! the white spirit sways and falls.
+    </l>
+    <l>
+     God pity him — no — no, yes, O fate, he dies!
+    </l>
+    <l>
+     Wonder! He staggers up again, his
+    </l>
+    <l>
+     Great green eyes oh me.
+    </l>
+    <l>
+     What — love must nerve his iron will!
+    </l>
+    <l>
+     On, on he reels.
+    </l>
+    <l>
+     My father cuts the silver from his head.
+    </l>
+    <l>
+     Ah! Ah! Softly — ah softly, Father —
+    </l>
+    <l>
+     Was that my father once,
+    </l>
+    <l>
+     That drabbled bloody thing
+    </l>
+    <l>
+     That spurts its slime on my cold breast?
+    </l>
+    <l>
+     The gates do yield!
+    </l>
+    <l>
+     He comes, nearer, nearer, near — here —
+    </l>
+    <l>
+     Hear! Hark!
+    </l>
+   </sp>
+   <sp who="francesco">
+    <speaker>
+     Francesco .
+    </speaker>
+    <l>
+     Open, or by Christ the King —
+    </l>
+   </sp>
+   <sp who="ximene">
+    <speaker>
+     Ximene .
+    </speaker>
+    <l>
+     Francesco!
+    </l>
+   </sp>
+   <sp who="f">
+    <speaker>
+     F.
+    </speaker>
+    <l>
+     Ximene!
+    </l>
+   </sp>
+   <sp who="x">
+    <speaker>
+     X.
+    </speaker>
+    <l>
+     Beast!
+    </l>
+   </sp>
+   <sp who="f">
+    <speaker>
+     F.
+    </speaker>
+    <l>
+     Woman!
+    </l>
+   </sp>
+   <sp who="x">
+    <speaker>
+     X.
+    </speaker>
+    <l>
+     (Whispering) I — love thee.
+    </l>
+   </sp>
+   <sp who="f">
+    <speaker>
+     F.
+    </speaker>
+    <l>
+     Come!
+    </l>
+   </sp>
+   <sp who="x">
+    <speaker>
+     X.
+    </speaker>
+    <l>
+     (Wildly) And I hate me that I do!
+    </l>
+    <l>
+     Ah!
+    </l>
+   </sp>
+   <sp who="francesco">
+    <speaker>
+     Francesco .
+    </speaker>
+    <l>
+     How whirls the world!
+    </l>
+    <l>
+     The mountains dance in drunken revel:
+    </l>
+    <l>
+     I am so strangely weak.
+    </l>
+    <l>
+     What's this? Why 'tis blood;
+    </l>
+    <l>
+     Good red and streaming blood!
+    </l>
+    <l>
+     I — Ximene!
+    </l>
+    <l>
+     Ha! Who art thou
+    </l>
+    <l>
+     That stands above my wedded wife?
+    </l>
+    <l>
+     I know thee — ha!
+    </l>
+    <l>
+     I know thee, Jew — old death's head!
+    </l>
+    <l>
+     Thou riseth from the grave to mock me.
+    </l>
+    <l>
+     I fear thee not: I'll kill thee presently again.
+    </l>
+    <l>
+     Wipe first the trailing blood
+    </l>
+    <l>
+     From off the princess' bridal gown,
+    </l>
+    <l>
+     It is not meet —
+    </l>
+    <l>
+     Ha! What?
+    </l>
+    <l>
+     What sayest thou so silently?
+    </l>
+    <l>
+     Thou art death?
+    </l>
+    <l>
+     What have I to do with death?
+    </l>
+    <l>
+     I am young!
+    </l>
+    <l>
+     I am strong!
+    </l>
+    <l>
+     I am wed!
+    </l>
+    <l>
+     Art thou Death?
+    </l>
+    <l>
+     Then I'll kill thee, Death,
+    </l>
+    <l>
+     And live forever!
+    </l>
+    <l>
+     Grip fast thy scythe,
+    </l>
+    <l>
+     Defend!
+    </l>
+    <l>
+     One, two —
+    </l>
+    <l>
+     Coward, dost thou run!
+    </l>
+    <l>
+     Thinkest thou thus to escape Saaveedra's mighty
+                                        sword?
+    </l>
+    <l>
+     Unhand me! Off with thy cold wet hands!
+    </l>
+    <l>
+     Knave, base-born, unknightly, caitiff!
+    </l>
+    <l>
+     Unhand me I say,
+    </l>
+    <l>
+     Or by the great King I'll run thee through!
+    </l>
+    <l>
+     I'll —
+    </l>
+    <l>
+     What! callest thou Witchery to darken all the
+                                        World
+    </l>
+    <l>
+     In this bright morning hour?
+    </l>
+    <l>
+     Thy magic all be damned;
+    </l>
+    <l>
+     I'll grope thee out thro' blackness ten times
+                                        blacker than the blackest hell!
+    </l>
+    <l>
+     Take that — and that — and that;
+    </l>
+    <l>
+     I warned thee fair.
+    </l>
+    <l>
+     What Ho! Ximene!
+    </l>
+    <l>
+     Death is dead
+    </l>
+    <l>
+     We'll live forever!
+    </l>
+   </sp>
+  </body>
+ </text>
+</TEI>
